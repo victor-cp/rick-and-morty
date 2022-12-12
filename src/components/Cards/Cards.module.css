@@ -1,0 +1,6 @@
+.subtitle {
+  /* background-color: purple; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}

@@ -1,0 +1,8 @@
+.searchBar {
+  background-color: rgb(90, 177, 169);
+  display: flex;
+  justify-content: end;
+  padding-right: 30px;
+  border-radius: 5px;
+  border: solid 2px aquamarine;
+}

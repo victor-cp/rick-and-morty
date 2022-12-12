@@ -1,0 +1,57 @@
+.name {
+  background: rgba(0, 0, 0, 0.4);
+  position: absolute;
+  bottom: 0px;
+  left: 16px;
+  border-radius: 5px;
+  font-size: 1.5rem;
+}
+
+.species,
+.gender {
+  font-size: 1.5rem;
+}
+
+.divContainer {
+  background-color: white;
+  border: 3px solid black;
+  border-radius: 10px;
+  width: 20rem;
+  height: auto;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.button {
+  background-color: red;
+  border-radius: 6px;
+  color: aliceblue;
+  font-size: 1rem;
+  margin-top: 5px;
+  margin-right: 8px;
+}
+
+.buttonContainer {
+  /* background-color: purple; */
+  padding-top: 3px;
+  padding-bottom: 8px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.image {
+  border-radius: 5px;
+}
+
+.subDivContainer {
+  /* background-color: salmon; */
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+}
+
+.imageContainer {
+  position: relative;
+  text-align: center;
+  color: white;
+}

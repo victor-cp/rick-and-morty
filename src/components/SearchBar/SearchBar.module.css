@@ -1,0 +1,21 @@
+.inputContainer {
+  /* background-color: red; */
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.input {
+  /* background-color: salmon; */
+  margin-right: 1rem;
+  height: 2rem;
+  border-radius: 8px;
+  width: auto;
+}
+
+.button {
+  background-color: rgb(54, 255, 47);
+  color: black;
+  margin-left: 1rem;
+  height: 2rem;
+  border-radius: 6px;
+}
