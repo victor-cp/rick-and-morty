@@ -1,8 +1,14 @@
 .searchBar {
   background-color: rgb(90, 177, 169);
   display: flex;
-  justify-content: end;
+  justify-content: space-between;
   padding-right: 30px;
   border-radius: 5px;
   border: solid 2px aquamarine;
+  font-family: "Inconsolata";
+}
+
+.navLabel {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
 }

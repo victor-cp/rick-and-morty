@@ -32,7 +32,7 @@ export default function SearchBar({ setCharacters }) {
       });
   }
   return (
-    <div className={styles.inputContainer}>
+    <div className={`${styles.inputContainer}`}>
       <input
         className={styles.input}
         type="search"
